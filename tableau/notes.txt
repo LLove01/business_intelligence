@@ -1,0 +1,14 @@
+Connecting data to tableau
+Creating charts
+Duplicating sheets
+Creating tables
+Custom fields
+Adding totals and subtotals
+Filters
+Joins and data blending
+
+Combining with SQL
+	1. Receive a business task
+	2. Use SQL ro execute a query retrieving a relevant dataset from the database
+	3. Export the obtained data in a CSV file to be used in Tableau 
+	4. Create a viz in Tableau

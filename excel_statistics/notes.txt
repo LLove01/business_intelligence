@@ -1,0 +1,37 @@
+population 	- collection of all items of interest
+		- denoted with N
+		- parameters
+		- hard to observe and contact
+
+sample 		- subset of population
+		- denoted with n
+		- statistics
+		- characteristics:
+			- randomness (each member chosen from population by chance)
+			- representativeness (accurately reflects the members of entire population)
+
+
+data types
+	categorical 
+		gender, yes/no ... (categories, booleans ...)
+		representation: 
+			frequency distribution tables, bar charts, pie charts, pareto diagrams
+
+	numerical
+		discrete - grades, numbers of objects, physical money ... (finite, int)
+		continous - height, area, distance, time ... (infinite, float)
+
+measurement levels
+	qualitative 
+		nominal (categories)
+		ordinal (ordered - for example negative to positive sentiment)
+
+	quantitative
+		ratio
+			has a true zero
+			nuber of objects, distance, time, temperature in K...
+
+		interval
+			does not have a true zero
+			temperature in °c
+
